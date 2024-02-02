@@ -54,8 +54,8 @@ Collaborative filtering recommends items to users by leveraging the preferences 
 **Example:**
 Continuing with the movie recommendation system, collaborative filtering would examine the preferences of other users who have liked or disliked the same movies as the target user. If two users share a liking for similar movies, the system might recommend movies liked by one user to the other.
 
-**Another Example**
-### Users' Preferences:
+**Another Example:**
+#### Users' Preferences:
 
 - **Person A:**
   - Likes: Pizza, Chicken, Coke
@@ -63,7 +63,7 @@ Continuing with the movie recommendation system, collaborative filtering would e
 - **Person B:**
   - Likes: Chicken, Pizza
 
-### Collaborative Filtering Recommendation:
+#### Collaborative Filtering Recommendation:
 
 In a collaborative filtering approach, the system identifies common preferences between Person A and Person B, focusing on shared items like Chicken and Pizza. The algorithm then leverages this similarity to suggest items liked by one person to the other.
 
